@@ -1,2 +1,2 @@
-# website
-Portfolio Website: https://artalbert.github.io/website/
+# Personal Website
+Link: https://artalbert.github.io/website/
