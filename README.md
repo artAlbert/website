@@ -1,2 +1,2 @@
 # Personal Website
-Link: https://artalbert.github.io/website/
+Link: https://artalbert.ca/
