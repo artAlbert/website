@@ -12,6 +12,11 @@ body {
     margin-top: 3em;
 }
 
+.portfolio {
+    font-size: 25px;
+    margin-top: 3em;
+}
+
 .name {
     font-size: 60px;
     margin-bottom: 1em;
@@ -56,4 +61,8 @@ body {
 
 a.resume-link-text {
     color: white;
+}
+
+.resume {
+    background-color: white;
 }
