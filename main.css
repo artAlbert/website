@@ -54,6 +54,6 @@ body {
     padding-top: 1em;
 }
 
-.resume {
+a.resume-link-text {
     color: white;
 }
